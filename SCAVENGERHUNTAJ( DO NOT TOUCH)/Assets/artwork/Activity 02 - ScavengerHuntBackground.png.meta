@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Activity 02 - ScavengerHuntBackground_0: 3115415927306783296
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
